@@ -1,0 +1,176 @@
+h1, h2, h3, h4, h5, h6, .pCss, .CopyCss, #title {
+    font-family: 'Montserrat';
+}
+.navbar-brand, .finalBut {
+    font-family: "Ubuntu";
+}
+.navbar-brand, .CopyCss, h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+.card-title, .h1Css2 {
+    padding-bottom: 2rem;
+}
+#title, #testimonials, .ctaCss {
+    color: #fff;
+}
+#features, #testimonials, #press, #pricing {
+    bottom: 12rem;
+}
+.h1Css2, h2 {
+    line-height: 1.5;
+}
+#features, #testimonials, #press, #pricing, #cta, #footer, .ctaCss {
+     text-align: center;
+}
+.iphoneDog, #title, #features, #testimonials, #press, #pricing, #cta, #footer{
+    position: relative;
+}
+
+.h1Css2 {
+    font-size: 3.5rem;
+    font-weight: 800;
+    padding-top: 3.5rem;
+}
+h2 {
+    font-size: 2.5rem;
+}
+.h3Css {
+    font-size: 1.5rem;
+}
+.finalText {
+    margin-bottom: 3rem;
+    font-size: 2.7rem;
+    display: block;
+    padding: 0 21% 0 21%;
+    line-height: 4rem;
+}
+.container-fluid {
+    padding: 2% 15% 4% 15%;
+}
+@media (max-width: 1290px) {
+	.container-fluid {
+    	padding: 2% 15% 18% 15%;
+    }
+}
+@media (max-width: 1150px) {
+	.container-fluid {
+    	padding: 2% 15% 20% 15%;
+    }
+}
+.navbar-brand {
+    font-size: 2.5rem;
+}
+.nav-item {
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+.navbar-dark {
+    text-align: right;
+}
+.iconsCss {
+    font-size: 60px;
+    color: #ef8172;
+    font-family: "Awesome";
+}
+.iconsCss:hover {
+    color: #ff4c68;
+}
+
+.pCss {
+    color: #8f8f8f;
+    padding: 0 13%;
+    line-height: 120%;
+}
+.rowCss {
+    padding: 7% 15%;
+    margin-right: 0;
+}
+.rowCssFix {
+    padding-bottom: 0;
+}
+.dogPic {
+    width: 10%;
+    border-radius: 50%;
+    margin: 20px;
+}
+.imgLogos {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+.allCards {
+    margin: 2.5% 16%;
+    line-height: 2rem;
+}
+.padingBottom {
+    padding-bottom: 1.68rem;
+}
+ul {
+    margin: 0 0 2rem 0;
+    padding-left: 0rem;
+}
+.iphoneDog {
+    transform: rotate(25deg);
+    width: 60%;
+    margin-top: 4rem;
+    left: 2rem;
+}
+
+
+#title {
+    background-color: #ff4c68;
+}
+#features {
+    background-color: white;
+}
+#testimonials {
+    background-color: #ef8172;
+}
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+#pricing {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+#cta {
+    bottom: 13rem;    
+}
+#footer {
+    bottom: 7rem;
+}
+
+
+@media (max-width: 768px) {
+    .iphoneDog {
+        transform: rotate(0);
+        left: 0;
+    }
+    .dogSlot, .h1Css2, .bothButtons {
+        text-align: center;
+    }
+    .dogSlot {
+        padding-bottom: 30%;
+    }
+    .bothButtons {
+        line-height: 3.5rem;
+    }
+}
+.ctaCss {
+    background-color: #ff4c68;
+    padding: 6% 0% 9% 0%;
+}
+.finalBut {
+    margin: 0 1% 0 1%;
+    padding: 0.3rem 0.8rem 0.3rem 0.8rem;
+}
+.iconsFinal {
+    padding: 0 0.6% 0% 0.6%;
+}
+.CopyCss {
+    padding-top: 1.5%;
+    color: grey;
+}
