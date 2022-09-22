@@ -1,4 +1,4 @@
 # Tindog---Tinder-for-dogs-HTML-CSS-and-BOOTSTRAP
-ive just learned some new stuff
+Exercício de bootcamp, por Dr Angela Yu.
 
-Live adress: https://vitosnatios.github.io/Tindog---Tinder-for-dogs-HTML-CSS-and-BOOTSTRAP/
+Live adress: https://vitosnatios.github.io/Tindog-Tinder-for-dogs-HTML-CSS-and-BOOTSTRAP/#pricing
